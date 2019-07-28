@@ -20,7 +20,7 @@ public class main
         Movies movies=(Movies) context.getBean("movies");
 
         System.out.println(movies);
-        System.out.println( "Hello World!" );
+        System.out.println( "Hello ykukyufjhfhfjhg!" );
 
 
         /*
